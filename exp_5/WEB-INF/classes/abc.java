@@ -9,7 +9,7 @@ public class abc extends HttpServlet {
 
    public void init() throws ServletException {
       // Do required initialization
-      message = "Hello Jeni vin";
+      message = "Hello Susmitha";
    }
 
    public void doGet(HttpServletRequest request, HttpServletResponse response)
